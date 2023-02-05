@@ -1,0 +1,45 @@
+h1 {
+  text-align: right;
+  color: #45171d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 3px 3px 4px #fecea8;
+}
+
+h3 {
+  text-align: right;
+  right: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #45171d, 0.8;
+}
+
+.container {
+  background: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+  padding: 40px 30px 30px 30px;
+  box-shadow: 10px 10px 20px rgba(207, 221, 86, 0.2);
+}
+.current-info {
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  right: 20px;
+  line-height: 2;
+}
+
+#description {
+  text-transform: capitalize;
+}
+.forcast-heading {
+  font-size: large;
+  padding: 30px 0px;
+}
+
+.col-2 {
+  text-align: center;
+}
+
+img {
+  padding: 10px;
+}
